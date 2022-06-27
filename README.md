@@ -1,4 +1,3 @@
-# git_test
-Testing out how to use Github
+#git test
+My first Github repo!
 Hello Odin!
-I am so excited to start this project!
